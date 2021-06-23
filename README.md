@@ -5,6 +5,8 @@
 - 💬 If you are interested in my account, let ask me smt and talk about coding.
 - 📫 How to reach me: https://www.linkedin.com/in/ahmetyigit1/ 
 - ⚡ Fun fact: code and cars
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mens1s&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **Mens1s/Mens1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
