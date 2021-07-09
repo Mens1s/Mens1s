@@ -11,9 +11,8 @@
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/>
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/>
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/c.svg" alt="c" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/c#.svg" alt="c#" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git-scm" height="42px"/>
+<img align="left" src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="42px"/>
+<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git-scm" height="42px"/><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Mens1s&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **Mens1s/Mens1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
