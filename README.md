@@ -4,6 +4,7 @@
 - 🌱 I’m always learning something intersting for me.
 - 💬 If you are interested in my account, let ask me smt and talk about coding.
 - 📫 How to reach me: https://www.linkedin.com/in/ahmetyigit1/ 
+- 💻 I solved a little bit question in here : https://www.codewars.com/users/Mens1s/
 - ⚡ Fun fact: code and cars
 <h3>Technologies I use : </h3>
 <img align="left" src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="84x"/>
