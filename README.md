@@ -17,7 +17,6 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Mens1s&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mens1s&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 <!--
 **Mens1s/Mens1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
