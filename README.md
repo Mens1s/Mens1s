@@ -16,7 +16,8 @@
 <img align="left" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="git-scm" height="84x"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Mens1s&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Mens1s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mens1s&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 <!--
 **Mens1s/Mens1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
