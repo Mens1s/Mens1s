@@ -6,6 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ahmetyigit1/ 
 - 💻 I solved a little bit question in here : https://www.codewars.com/users/Mens1s/
 - ⚡ Fun fact: code and cars
+- 🔥 <a href="https://www.codewars.com/users/Mens1s/">CodeWars : 82 Q</a> <a href="https://www.hackerrank.com/Mens1s?hr_r=1">HackerRank : 41 Q</a><a href="https://leetcode.com/mensis/"> LeetCode : 21 Q</a>
 <h3>Technologies I use : </h3>
 <img align="left" src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="84x"/>
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="84x"/>
