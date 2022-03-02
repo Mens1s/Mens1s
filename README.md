@@ -86,7 +86,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mens1s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mens1s&show_icons=true&count_private=true&hide_border=true" align="left" height=40% width = 40%/></div>  
 
 <br/>  
 
@@ -99,7 +99,7 @@
 
 
 ### what is going on now...  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=f4a5dwqco3m15qf8nc9vcwhwv&cover_image=true&theme=default" /></div>  
+<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=f4a5dwqco3m15qf8nc9vcwhwv&cover_image=true&theme=default" height=40% width = 40% /></div>  
 
 <br/>  
 
