@@ -88,14 +88,7 @@
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mens1s&show_icons=true&count_private=true&hide_border=true" align="left" height=40% width = 40%/></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
+ 
 
 
 ### what is going on now...  
