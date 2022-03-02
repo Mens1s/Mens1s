@@ -90,9 +90,7 @@
 
  
 
-
-### what is going on now...  
-<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=f4a5dwqco3m15qf8nc9vcwhwv&cover_image=true&theme=default" height=40% width = 40% /></div>  
+<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=f4a5dwqco3m15qf8nc9vcwhwv&cover_image=true&theme=default" height=20% width = 20% /></div>  
 
 <br/>  
 
