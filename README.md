@@ -86,7 +86,7 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mens1s&show_icons=true&count_private=true&hide_border=true" align="left" height=80% width = 80%/></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mens1s&show_icons=true&count_private=true&hide_border=true" align="left" height=60% width = 60%/></div>  
 
  
 
