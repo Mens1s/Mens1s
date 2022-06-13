@@ -1,8 +1,3 @@
-<div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 40%; height: 40%"  />
-</div>  
-  
-
 ### <div align="center">I'm Ahmet, a student and full-stack freelance developer 👨‍💻 working remotely in fiverr and bionluk🚀</div>  
   
 
