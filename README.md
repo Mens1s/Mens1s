@@ -4,7 +4,8 @@
 - 🔭 I’m currently studying at [Gebze Techincal University](https://www.gtu.edu.tr)  
   
 
-- 🌱 I’m currently learning Java|Spring and Machine Learning  
+- 🌱 I’m currently learning Kotlin and Image processing  
+- 🌱 Big projects are coming...
   
 
 - 📫 How to reach me: https://www.linkedin.com/in/ahmetyigit1/  
