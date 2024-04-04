@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying at [Gebze Techincal University](https://www.gtu.edu.tr)  
   
 
-- 🌱 I’m currently learning Kotlin and Image processing  
+- 🌱 I’m currently learning Java Spring Boot and Microservices 
 - 🌱 Big projects are coming...
   
 
