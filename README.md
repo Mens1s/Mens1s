@@ -1,11 +1,10 @@
-### <div align="center">I'm Ahmet, a student and full-stack freelance developer 👨‍💻 working remotely in fiverr and bionluk🚀</div>  
+### <div align="center">I'm Ahmet, a student and fin-tech backend developer 👨‍💻 working on banking industry🚀</div>  
   
 
 - 🔭 I’m currently studying at [Gebze Techincal University](https://www.gtu.edu.tr)  
   
 
-- 🌱 I’m currently learning Java Spring Boot and Microservices 
-- 🌱 Big projects are coming...
+- 🌱 I’m currently learning .Net and Microservices 
   
 
 - 📫 How to reach me: https://www.linkedin.com/in/ahmetyigit1/  
