@@ -19,7 +19,6 @@ Passionate about **software architecture, performance engineering, and AI infras
 - ⚙️ Working with **.NET, distributed systems, microservices, and enterprise architecture**.
 - 🚀 Interested in **high-performance systems, observability, and developer tooling**.
 - 🤖 Currently exploring **AI infrastructure, local LLMs, RAG, and inference optimization**.
-- 🌍 Open-source contributor to [Apache Superset](https://github.com/apache/superset).
 
 ## 🛠️ Tech Stack
 
